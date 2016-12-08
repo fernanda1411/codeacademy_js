@@ -1,0 +1,1 @@
+This repository is intended for my javascript studies on codeacademy
